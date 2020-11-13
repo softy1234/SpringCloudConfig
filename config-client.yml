@@ -15,4 +15,4 @@ eureka:
 #当前服务名称
 spring:
   application:
-    name: eureka-service2
+    name: eureka-service1
