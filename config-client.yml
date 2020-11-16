@@ -18,4 +18,4 @@ spring:
     name: eureka-service1
 
 from:
-  GitConfigService1-3.0
+  GitConfigService1-4.0
