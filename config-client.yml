@@ -16,3 +16,6 @@ eureka:
 spring:
   application:
     name: eureka-service1
+
+from:
+  GitConfigService1
